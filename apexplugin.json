@@ -1,0 +1,53 @@
+{
+   "name": "UC - Image Slider",
+   "version": "22.1.0",
+   "description": "A region plug-in which displays a gallery of lazily loaded images.\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\n\u003Cp\u003E\r\nAll UC plug-ins are released under MIT License, which essentially means it is free for everyone to use, no matter if commercial or private use. \r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003EThe \u003Cstrong\u003EUC - Image Slider\u003C\/strong\u003E is a region plug-in which displays a gallery of lazily loaded images. It is based on the modern \u003Ci\u003ESwiper\u003C\/i\u003E slider (https:\/\/swiperjs.com\/) which also supports mobile devices, accelerated transitions and native behavior.\u003C\/p\u003E\r\n\u003Cp\u003EThis plug-in offers the most commonly-used features such as autoplaying, looping, thumbnails gallery, different display modes\/size for the images and so on. It offers various slide-transition options and a built-in description box which can be easily customized using CSS if necessary.\u003C\/p\u003E",
+   "keywords": [
+      "image",
+      "region",
+      "swipe"
+   ],
+   "license": "MIT",
+   "commercial": "No",
+   "commercially_supported": "Yes",
+   "homepage": "https:\/\/github.com\/foex-open-source\/uc-image-slider",
+   "bugs": {
+      "url": "https:\/\/github.com\/foex-open-source\/uc-image-slider\/issues",
+      "email": "support@uc.world"
+   },
+   "author": {
+      "name": "UC GmbH",
+      "email": "office@uc.world",
+      "url": "https:\/\/foex.at\/uc\/",
+      "twitter": "@foexopensource"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https:\/\/github.com\/foex-open-source\/uc-image-slider.git"
+   },
+   "oracle": {
+      "versions": [
+         "12.1.0.1",
+         "12.2.0.1",
+         "18.0.0.0",
+         "19.0.0.0",
+         "21.0.0.0"
+      ],
+      "apex": {
+         "versions": [
+            "19.2.0",
+            "20.1.0",
+            "20.2.0",
+            "21.1.0",
+            "21.2.0",
+            "22.1.0"
+         ],
+         "plugin": {
+            "internalName": "UNITEDCODES_IMAGE_SLIDER",
+            "type": "region",
+            "demo": "https:\/\/uc.world\/ords\/f?p=10000:3040",
+            "previewImage": "https:\/\/uc.world\/ords\/uc_master_ws\/uc-image\/COM.UC.IMAGE_SLIDER"
+         }
+      }
+   }
+}
