@@ -1,6 +1,6 @@
 {
    "name": "UC - Image Slider",
-   "version": "23.1",
+   "version": "24.1",
    "description": "Free Plug-in under MIT License, which means it is free for everyone to use, no matter if for commercial or private use. The UC - Image Slider is a region plug-in that displays a gallery of lazily loaded images. It is based on the modern Swiper slider (https://swiperjs.com/) which also supports mobile devices, accelerated transitions, and native behavior. This plug-in offers the most commonly used features such as autoplaying, looping, thumbnail gallery, different display modes/sizes for the images, and so on. It offers various slide-transition options and a built-in description box which can be easily customized using CSS if necessary.",
    "keywords": [
       "image",
@@ -43,7 +43,8 @@
             "21.2.0",
             "22.1.0",
             "23.1.0",
-            "23.2.0"
+            "23.2.0",
+            "24.1.0"
          ],
          "plugin": {
             "internalName": "UNITEDCODES_IMAGE_SLIDER",
